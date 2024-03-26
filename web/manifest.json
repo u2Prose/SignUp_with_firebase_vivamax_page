@@ -1,0 +1,23 @@
+{
+    "name": "vivamaxlogin",
+    "short_name": "vivamaxlogin",
+    "start_url": "vivamaxlogin",
+    "display": "standalone",
+    "background_color": "#0175C2",
+    "theme_color": "#0175C2",
+    "description": "Viva Max Page",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "icons/Icon-ben.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-ben.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "629002924051",
+    "project_id": "viva-max-page",
+    "storage_bucket": "viva-max-page.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:629002924051:android:12d6b025f33ca3b4770fe6",
+        "android_client_info": {
+          "package_name": "com.example.flutter_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAijglqGanEZg4GoSWPOCLwnMtMNo4wtuE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:629002924051:android:bece90daf9a52fef770fe6",
+        "android_client_info": {
+          "package_name": "com.example.vivamaxlogin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAijglqGanEZg4GoSWPOCLwnMtMNo4wtuE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

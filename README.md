@@ -1,4 +1,4 @@
-# Flutter UI - Viva Max Page | Viva Max Login | by: John Prose
+# Flutter UI - Viva Max Page | Viva Max Login | by: Prose John
 
 ## Getting Started
 
